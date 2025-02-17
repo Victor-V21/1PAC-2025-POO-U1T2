@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|c:\\users\\victor\\projects\\unidad1\\poo_u1t2\\poo_u1t2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|solutionrelative:poo_u1t2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|c:\\users\\victor\\projects\\unidad1\\poo_u1t2\\poo_u1t2\\exercises\\ej11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|solutionrelative:poo_u1t2\\exercises\\ej11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|c:\\users\\victor\\projects\\unidad1\\poo_u1t2\\poo_u1t2\\exercises\\ej10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|solutionrelative:poo_u1t2\\exercises\\ej10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|c:\\users\\victor\\projects\\unidad1\\poo_u1t2\\poo_u1t2\\exercises\\ej9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|solutionrelative:poo_u1t2\\exercises\\ej9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|c:\\users\\victor\\projects\\unidad1\\poo_u1t2\\poo_u1t2\\exercises\\ej8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|solutionrelative:poo_u1t2\\exercises\\ej8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|c:\\users\\victor\\projects\\unidad1\\poo_u1t2\\poo_u1t2\\exercises\\ej7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|solutionrelative:poo_u1t2\\exercises\\ej7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|c:\\users\\victor\\projects\\unidad1\\poo_u1t2\\poo_u1t2\\exercises\\ej5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|solutionrelative:poo_u1t2\\exercises\\ej5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|c:\\users\\victor\\projects\\unidad1\\poo_u1t2\\poo_u1t2\\exercises\\ej3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|solutionrelative:poo_u1t2\\exercises\\ej3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|c:\\users\\victor\\projects\\unidad1\\poo_u1t2\\poo_u1t2\\exercises\\ej6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|solutionrelative:poo_u1t2\\exercises\\ej6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|c:\\users\\victor\\projects\\unidad1\\poo_u1t2\\poo_u1t2\\exercises\\ej1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|solutionrelative:poo_u1t2\\exercises\\ej1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|c:\\users\\victor\\projects\\unidad1\\poo_u1t2\\poo_u1t2\\exercises\\ej2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|solutionrelative:poo_u1t2\\exercises\\ej2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|c:\\users\\victor\\projects\\unidad1\\poo_u1t2\\poo_u1t2\\exercises\\ej4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACD30DF-8392-46D5-B311-8EEB8F936285}|POO_U1T2\\POO_U1T2.csproj|solutionrelative:poo_u1t2\\exercises\\ej4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ej11.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej11.cs",
+              "RelativeDocumentMoniker": "POO_U1T2\\Exercises\\Ej11.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej11.cs",
+              "RelativeToolTip": "POO_U1T2\\Exercises\\Ej11.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:22:33.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ej10.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej10.cs",
+              "RelativeDocumentMoniker": "POO_U1T2\\Exercises\\Ej10.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej10.cs",
+              "RelativeToolTip": "POO_U1T2\\Exercises\\Ej10.cs",
+              "ViewState": "AgIAAAYAAABgZmZmZmYkwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:17:02.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ej9.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej9.cs",
+              "RelativeDocumentMoniker": "POO_U1T2\\Exercises\\Ej9.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej9.cs",
+              "RelativeToolTip": "POO_U1T2\\Exercises\\Ej9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:07:46.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ej8.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej8.cs",
+              "RelativeDocumentMoniker": "POO_U1T2\\Exercises\\Ej8.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej8.cs",
+              "RelativeToolTip": "POO_U1T2\\Exercises\\Ej8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:59:58.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ej7.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej7.cs",
+              "RelativeDocumentMoniker": "POO_U1T2\\Exercises\\Ej7.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej7.cs",
+              "RelativeToolTip": "POO_U1T2\\Exercises\\Ej7.cs",
+              "ViewState": "AgIAAAQAAADwzMzMzMwcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:50:21.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ej6.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej6.cs",
+              "RelativeDocumentMoniker": "POO_U1T2\\Exercises\\Ej6.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej6.cs",
+              "RelativeToolTip": "POO_U1T2\\Exercises\\Ej6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:22:16.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ej5.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej5.cs",
+              "RelativeDocumentMoniker": "POO_U1T2\\Exercises\\Ej5.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej5.cs",
+              "RelativeToolTip": "POO_U1T2\\Exercises\\Ej5.cs",
+              "ViewState": "AgIAAAEAAAAgMzMzMzMrwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:24:56.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ej4.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej4.cs",
+              "RelativeDocumentMoniker": "POO_U1T2\\Exercises\\Ej4.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej4.cs",
+              "RelativeToolTip": "POO_U1T2\\Exercises\\Ej4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:10:35.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ej3.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej3.cs",
+              "RelativeDocumentMoniker": "POO_U1T2\\Exercises\\Ej3.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej3.cs",
+              "RelativeToolTip": "POO_U1T2\\Exercises\\Ej3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:56:11.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ej2.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej2.cs",
+              "RelativeDocumentMoniker": "POO_U1T2\\Exercises\\Ej2.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej2.cs",
+              "RelativeToolTip": "POO_U1T2\\Exercises\\Ej2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:42:39.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ej1.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej1.cs",
+              "RelativeDocumentMoniker": "POO_U1T2\\Exercises\\Ej1.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Exercises\\Ej1.cs",
+              "RelativeToolTip": "POO_U1T2\\Exercises\\Ej1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:53:53.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Program.cs",
+              "RelativeDocumentMoniker": "POO_U1T2\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\POO_U1T2\\POO_U1T2\\Program.cs",
+              "RelativeToolTip": "POO_U1T2\\Program.cs",
+              "ViewState": "AgIAAAAAAACgZmZmZmYkwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:51:23.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

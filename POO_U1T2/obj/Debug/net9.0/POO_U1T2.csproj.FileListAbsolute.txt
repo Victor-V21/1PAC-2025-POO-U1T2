@@ -1,0 +1,14 @@
+C:\Users\Victor\projects\unidad1\POO_U1T2\POO_U1T2\bin\Debug\net9.0\POO_U1T2.exe
+C:\Users\Victor\projects\unidad1\POO_U1T2\POO_U1T2\bin\Debug\net9.0\POO_U1T2.deps.json
+C:\Users\Victor\projects\unidad1\POO_U1T2\POO_U1T2\bin\Debug\net9.0\POO_U1T2.runtimeconfig.json
+C:\Users\Victor\projects\unidad1\POO_U1T2\POO_U1T2\bin\Debug\net9.0\POO_U1T2.dll
+C:\Users\Victor\projects\unidad1\POO_U1T2\POO_U1T2\bin\Debug\net9.0\POO_U1T2.pdb
+C:\Users\Victor\projects\unidad1\POO_U1T2\POO_U1T2\obj\Debug\net9.0\POO_U1T2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\projects\unidad1\POO_U1T2\POO_U1T2\obj\Debug\net9.0\POO_U1T2.AssemblyInfoInputs.cache
+C:\Users\Victor\projects\unidad1\POO_U1T2\POO_U1T2\obj\Debug\net9.0\POO_U1T2.AssemblyInfo.cs
+C:\Users\Victor\projects\unidad1\POO_U1T2\POO_U1T2\obj\Debug\net9.0\POO_U1T2.csproj.CoreCompileInputs.cache
+C:\Users\Victor\projects\unidad1\POO_U1T2\POO_U1T2\obj\Debug\net9.0\POO_U1T2.dll
+C:\Users\Victor\projects\unidad1\POO_U1T2\POO_U1T2\obj\Debug\net9.0\refint\POO_U1T2.dll
+C:\Users\Victor\projects\unidad1\POO_U1T2\POO_U1T2\obj\Debug\net9.0\POO_U1T2.pdb
+C:\Users\Victor\projects\unidad1\POO_U1T2\POO_U1T2\obj\Debug\net9.0\POO_U1T2.genruntimeconfig.cache
+C:\Users\Victor\projects\unidad1\POO_U1T2\POO_U1T2\obj\Debug\net9.0\ref\POO_U1T2.dll
